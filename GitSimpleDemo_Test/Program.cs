@@ -16,6 +16,8 @@ namespace GitSimpleDemo_Test
             Console.WriteLine("Forth Time");
 
             Console.WriteLine("Change Made 5th Time...");
+
+            Console.WriteLine("Changes Made 6th Time....");
             Console.ReadLine();
         }
     }
